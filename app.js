@@ -1,4 +1,4 @@
-function GETsum(a,b){
+function GETqsum(a,b){
   console.log(a+b);
 }
-GETsum();
+GETqsum();
